@@ -8,7 +8,6 @@ Repository contains project: **C2C pattern generation from image**
 ## Required libraries:
 - streamlit
 - PIL
-- io
 
 ## Run code:
 streamlit run appC2C.py\
