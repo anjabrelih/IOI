@@ -11,7 +11,7 @@ Repository contains project: **C2C pattern generation from image**
 - io
 
 ## Run code:
-streamlit run appC2C.py
+streamlit run appC2C.py\
 (skip email input and localhost:xxxx automatically open in browser)
 
 
